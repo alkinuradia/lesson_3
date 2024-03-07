@@ -67,7 +67,7 @@
 //   summ += value;
 // }
 
-// console.log("Summ", summ);
+// console.log("Summ", +summ);
 
 // for (let i = 0; i < 10; i++) {
 //   if (i % 2 === 0) continue;
